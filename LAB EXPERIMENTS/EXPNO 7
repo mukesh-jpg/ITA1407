@@ -1,1 +1,3 @@
-
+cd Desktop
+ls
+cp 1.txt copy sample.txt
