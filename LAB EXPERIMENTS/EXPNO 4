@@ -1,1 +1,4 @@
-
+ls
+mkdir scan1
+ls
+cat 1.txt
