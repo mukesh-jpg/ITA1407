@@ -1,1 +1,3 @@
-
+uptime
+date
+mv 1.txt sample.txt
